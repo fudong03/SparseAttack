@@ -1,6 +1,6 @@
 # Towards Interpretable Adversarial Examples via Sparse Adversarial Attack
 
-This repository provides the official implementation of our proposed sparse attack, i.e., WI-FGSM. Specifically, this repository includes two demo experiments. First, we evaluate the sparsity of our approach by exhibiting that perturbing only 4 pixels, our approach is sufficient to mislead deep neural networks (DNNs) to predict an incorrect label of "mink" on an image of "giant panda". Second, resorting to Grad-CAM visualizations, we interpret the adversarial perturbation by discovering two types of noises, i.e., "obscuring noise" and "leading noise".
+This repository provides the official implementation of our proposed sparse attack, i.e., WI-FGSM. Specifically, this repository includes two experiments. First, we evaluate the sparsity of our approach by exhibiting that perturbing only 4 pixels, our approach is sufficient to mislead deep neural networks (DNNs) to predict an incorrect label of "mink" on an image of "giant panda". Second, resorting to Grad-CAM visualizations, we interpret the adversarial perturbation by discovering two types of noises, i.e., "obscuring noise" and "leading noise".
 
 
 
